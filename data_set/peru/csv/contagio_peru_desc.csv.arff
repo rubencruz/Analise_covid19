@@ -1,0 +1,80 @@
+@relation contagio_peru_desc
+
+@attribute faixa_altitude {1501-2000,2501-3000,0-500,3501-4000,3001-3500,2001-2500,501-1000,4001-4500,1001-1500}
+@attribute faixa_temperatura {NI,11-20,0-10,21-30,31-40}
+@attribute faixa_humedade_relativa {NI,81-90,51-60,61-70,71-80,41-50,91-100}
+@attribute indice_uv {NI,'Muito Alto','Extremadamente Alto',Alto}
+@attribute sum_contagio numeric
+@attribute sum_morte numeric
+
+@data
+1501-2000,NI,NI,NI,18,0
+2501-3000,11-20,81-90,'Muito Alto',1,0
+0-500,11-20,51-60,'Muito Alto',1510,358
+3501-4000,0-10,51-60,'Muito Alto',81,1
+1501-2000,11-20,NI,'Extremadamente Alto',41,3
+0-500,21-30,61-70,'Muito Alto',2087,388
+3501-4000,0-10,NI,'Muito Alto',67,0
+3001-3500,0-10,NI,'Muito Alto',215,0
+2001-2500,NI,NI,'Muito Alto',10,0
+501-1000,NI,NI,NI,125,0
+3001-3500,0-10,71-80,'Muito Alto',20,0
+4001-4500,0-10,NI,'Extremadamente Alto',156,13
+0-500,11-20,71-80,'Muito Alto',27,82
+0-500,21-30,NI,'Muito Alto',1701,148
+3501-4000,0-10,61-70,'Muito Alto',5,0
+0-500,11-20,NI,'Muito Alto',9638,203
+501-1000,21-30,NI,'Extremadamente Alto',252,1
+501-1000,21-30,41-50,'Muito Alto',5,0
+3501-4000,NI,NI,'Muito Alto',45,1
+0-500,21-30,71-80,'Muito Alto',1473,220
+501-1000,NI,NI,Alto,252,62
+501-1000,21-30,51-60,'Muito Alto',120,4
+1501-2000,11-20,NI,'Muito Alto',58,0
+4001-4500,21-30,81-90,'Muito Alto',68,5
+3501-4000,0-10,41-50,'Muito Alto',36,1
+0-500,NI,NI,NI,784,57
+3001-3500,0-10,NI,'Extremadamente Alto',8,0
+0-500,11-20,81-90,Alto,133,0
+4001-4500,NI,NI,'Muito Alto',3,0
+3001-3500,0-10,61-70,'Extremadamente Alto',567,7
+3501-4000,0-10,61-70,'Extremadamente Alto',186,1
+501-1000,11-20,NI,'Muito Alto',180,1
+0-500,21-30,NI,'Extremadamente Alto',104,0
+501-1000,21-30,NI,'Muito Alto',195,0
+0-500,21-30,71-80,'Extremadamente Alto',2522,52
+3001-3500,NI,NI,'Extremadamente Alto',37,2
+2501-3000,11-20,71-80,'Muito Alto',409,1
+1001-1500,21-30,NI,'Extremadamente Alto',6,0
+2501-3000,11-20,NI,'Muito Alto',73,0
+1001-1500,NI,NI,NI,6,1
+2501-3000,21-30,61-70,'Muito Alto',2,0
+1501-2000,21-30,81-90,'Extremadamente Alto',2,0
+3001-3500,11-20,NI,'Muito Alto',62,0
+0-500,NI,NI,'Muito Alto',1831,90
+3001-3500,11-20,71-80,'Muito Alto',26,1
+2001-2500,11-20,61-70,'Muito Alto',52,0
+0-500,11-20,41-50,Alto,20,1
+3001-3500,11-20,61-70,'Muito Alto',146,0
+0-500,21-30,81-90,'Muito Alto',4025,233
+0-500,11-20,81-90,'Muito Alto',69756,1116
+2501-3000,11-20,41-50,'Muito Alto',3,0
+2501-3000,11-20,NI,'Extremadamente Alto',437,2
+2501-3000,21-30,71-80,'Extremadamente Alto',4,0
+1001-1500,11-20,NI,'Muito Alto',2,0
+0-500,31-40,71-80,'Muito Alto',2393,172
+2501-3000,NI,NI,NI,2137,0
+0-500,31-40,NI,'Muito Alto',69,1
+4001-4500,11-20,51-60,'Muito Alto',52,29
+3001-3500,11-20,NI,'Extremadamente Alto',405,5
+2001-2500,NI,NI,NI,56,4
+3001-3500,11-20,71-80,'Extremadamente Alto',348,20
+3001-3500,21-30,NI,'Extremadamente Alto',2,0
+2001-2500,21-30,NI,'Extremadamente Alto',33,0
+2001-2500,11-20,41-50,'Muito Alto',2112,18
+501-1000,21-30,81-90,'Muito Alto',39,1
+1001-1500,11-20,51-60,'Muito Alto',137,0
+2001-2500,11-20,91-100,'Extremadamente Alto',61,0
+2001-2500,11-20,NI,'Extremadamente Alto',171,4
+3001-3500,NI,NI,NI,560,3
+3501-4000,NI,NI,NI,602,12

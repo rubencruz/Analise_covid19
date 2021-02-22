@@ -1,0 +1,199 @@
+Ubigeo,Provincia,Capital,Altitud,Superficie,Poblacion,Temperatura,Humedad_relativa,indice_UV,senamhi_uv
+10101,Chachapoyas ,Chachapoyas ,2339,,,18,91,5,12
+10201,Bagua ,Bagua ,421,,,"24,9",75,5,10
+10301,Bongará ,Jumbilla ,1991,,,23,86,,12
+10104,Condorcanqui ,Santa María de Nieva ,222,,,"26,2",,,10
+10502,Luya,Camporredondo,2307,,,16,75,,12
+10501,Luya,Lámud ,2307,,,16,,,12
+10601,Rodríguez de Mendoza ,Mendoza ,1584,,,"19,6",,,11
+10701,Utcubamba ,Bagua Grande ,446,,,"25,3",75,,10
+10702,Utcubamba ,Cajaruro,446,,,"25,3",74,,10
+20201,Aija,Aija ,3147,,,"21,5",,,11
+20301,Antonio Raymondi,Llamellin ,3336,,,"21,3",,,12
+20401,Asunción,Chacas ,3359,,,"12,1",,,12
+20501,Bolognesi,Chiquián ,3374,,,"9,8",,,11
+20601,Carhuaz,Carhuaz ,2638,,,"16,2",80,,11
+20701,Carlos F. Fitzcarrald,San Luis ,3131,,,"13,4",,,11
+20801,Casma,Casma ,4210,,,24,83,6,9
+20901,Corongo,Corongo ,3141,,,"11,7",,,12
+20101,Huaraz,Huaraz ,3052,,,"13,2",74,3,11
+21001,Huari,Huari ,3149,,,"13,6",,,11
+21101,Huarmey,Huarmey ,14,,,"19,3",,,9
+21201,Huaylas,Caraz ,2256,,,"15,4",,,11
+21301,Mariscal Luzuriaga,Piscobamba ,3281,,,,,,12
+21401,Ocros,Ocros ,3250,,,"9,6",,,11
+21501,Pallasca,Cabana ,3240,,,"11,8",,,12
+21601,Pomabamba,Pomabamba ,2950,,,"14,2",,,11
+21701,Recuay,Recuay ,3422,,,"10,4",,,11
+21801,Santa,Chimbote ,5,,,19,,,9
+21901,Sihuas,Sihuas ,2730,,,"14,8",,,11
+22001,Yungay,Yungay,2458,,,"15,7",,,11
+30101,Abancay ,Abancay ,2392,,,"16,7",70,4,9
+30201,Andahuaylas ,Andahuaylas ,2901,,,"13,8",,,10
+30301,Antabamba ,Antabamba ,3640,,,"8,9",,,10
+30401,Aymaraes ,Chalhuanca ,2911,,,"13,5",,,10
+30501,Cotabambas ,Tambobamba ,3292,,,12,,,10
+30601,Chincheros ,Chincheros ,2795,,,"11,7",,,10
+30701,Grau ,Chuquibambilla ,3376,,,"11,9",,,10
+40101,Arequipa ,Arequipa ,2337,"9682,02",1080635,15,"46,1",5,8
+40201,Camaná ,Camaná ,15,"3998,28",59370,"20,1",,,7
+40301,Caravelí ,Caravelí ,1776,"13139,86",41346,"16,7",,,8
+40401,Castilla ,Aplao ,631,"6914,48",33629,"20,2",,,8
+40501,Caylloma ,Chivay ,3632,"14019,46",86771,"9,3",,,9
+40601,Condesuyos ,Chuquibamba ,2935,"6958,4",16118,12,,,9
+40701,Islay ,Mollendo ,52,"3886,49",52630,"19,6",,,7
+40801,La Unión ,Cotahuasi ,2675,"4746,4",12827,"13,7",,,9
+50101,Huamanga,Ayacucho,2760,,,"15,4",75,4,10
+50201,Cangallo,Cangallo,2570,,,"15,7",,,10
+50301,Huanca Sancos,Huanca Sancos,3422,,,"10,4",,,10
+50401,Huanta,Huanta,2642,,,"15,9",,,10
+50501,La Mar,San Miguel,2647,,,"16,4",,,10
+50601,Lucanas,Puquio,3221,,,"10,9",,,9
+50701,Parinacochas,Coracora,3178,,,"6,6",,,9
+50801,Páucar del Sara Sara,Pauza,2518,,,"14,2",,,10
+50901,Sucre,Querobamba,3508,,,"9,7",,,10
+51001,Víctor Fajardo,Huancapi,3102,,,"12,8",,,10
+51101,Vilcashuamán,Vilcashuamán,3482,,,"10,8",,,10
+60101,Cajamarca,Cajamarca,2719,,,13,,,12
+60201,Cajabamba,Cajabamba,2651,,,"13,8",,,11
+60301,Celendín,Celendín,2645,,,14,,,12
+60401,Chota,Chota,2387,,,"15,1",,,12
+60501,Contumazá,Contumazá,2647,,,13,,,11
+60601,Cutervo,Cutervo,2628,,,14,,,12
+60701,Hualgayoc,Bambamarca,2580,,,"14,3",,,12
+60801,Jaén,Jaén,753,,,"24,2",,,11
+60901,San Ignacio,San Ignacio de la Frontera,1303,,,"21,7",,,11
+61001,San Marcos,San Marcos,2252,,,"15,6",,,11
+61101,San Miguel,San Miguel de Pallaques,2659,,,"13,4",,,11
+61201,San Pablo,San Pablo,2381,,,"14,7",,,11
+61301,Santa Cruz,Santa Cruz de Succhabamba,2034,,,"16,6",,,11
+70101,Callao,callao,7,,,"19,3",,,9
+80101,Cuzco,Cuzco,3414,617,447588,13,"55,4",4,10
+80201,Acomayo,Acomayo,3221,"948,22",22940,"11,9",,,10
+80301,Anta,Anta,3345,1 876.12,13,"11,5",,,10
+80401,Calca,Calca,2905,4 414.49,63155,"13,7",,,10
+80501,Canas,Yanaoca,3910,2 103.76,32484,"7,6",,,10
+80601,Canchis,Sicuani,3546,3 999.27,95774,"9,7",,,10
+80701,Chumbivilcas,Santo Tomás,3678,5 371.08,66410,"9,1",,,10
+80801,Espinar,Yauri,3924,5 311.09,57582,"7,3",,,10
+80901,La Convención,Quillabamba,1063,30 061.82,147148,"23,7",,,9
+81001,Paruro,Paruro,3068,1 984.42,25567,"12,6",,,10
+81101,Paucartambo,Paucartambo,3005,6 295.01,42504,"13,6",,,10
+81201,Quispicanchi,Urcos,3158,7 564.79,87430,"12,3",,,10
+81301,Urubamba,Urubamba,2869,1 439.43,60739,"16,4",,,10
+90101,Huancavelica,Huancavelica,3679,,,9,63,2,11
+90201,Acobamba,Acobamba,3431,,,"11,2",,,10
+90301,Angaraes,Lircay,3271,,,"11,9",,,10
+90401,Castrovirreyna,Castrovirreyna,3958,,,"6,3",,,10
+90501,Churcampa,Churcampa,3275,,,"12,1",,,10
+90601,Huaytará,Huaytará,2712,,,"13,1",,,9
+90701,Tayacaja,Pampas,3251,,,"12,2",,,10
+100101,Huánuco,Huánuco,1898,,,"18,7",91,3,11
+100201,Ambo,Ambo,2076,,,"21,3",,,11
+100301,Dos de Mayo,La Unión,3210,,,,,,11
+100401,Huacaybamba,Huacaybamba,3191,,,,,,11
+100501,Huamalíes,Llata,3436,,,"19,5",,,11
+100601,Leoncio Prado,Tingo María,648,,,"24,4",81,7,10
+100701,Marañón,Huacrachuco,2893,,,"26,7","77,5",,12
+100801,Pachitea,Panao,2772,,,"16,7",,,11
+100901,Puerto Inca,Puerto Inca,210,,,"26,2",,,9
+101001,Lauricocha,Jesús,3485,,,,,,11
+101101,Yarowilca,Chavinillo,3254,,,"10,4",,,11
+110101,Ica ,Ica ,406,,,"19,3",60,6,8
+110201,Chincha ,Chincha Alta ,97,,,"19,3",,,8
+110301,Nazca ,Nazca ,520,,,"20,9",,,8
+110401,Palpa ,Palpa ,347,,,"19,8",,,8
+110501,Pisco ,Pisco ,17,,,23,83,6,8
+120101,Huancayo,Huancayo,3245,,,9,70,3,11
+120201,Concepción,Concepción,3286,,,12,,,11
+120301,Chanchamayo,La Merced,775,,,12,,,10
+120401,Jauja,Jauja,3389,,,"10,9",,,11
+120501,Junín,Junín,4113,,,"5,4",,,11
+120601,Satipo,Satipo,628,,,"24,1",,,9
+120701,Tarma,Tarma,3059,,,"12,1",,,11
+120801,Yauli,La Oroya,3725,,,"6,5","69,9",,11
+120901,Chupaca,Chupaca,3281,,,"11,9",,,11
+130101,Trujillo,Trujillo (Perú),34,,,"19,7",89,6,10
+130201,Ascope,Ascope,238,,,"20,9",,,10
+130301,Bolívar,Bolívar,3098,,,"8,3",,,12
+130401,Chepén,Chepén,135,,,"22,5",,,10
+130501,Julcán,Julcán,3412,,,"9,5",,,12
+130601,Otuzco,Otuzco,2660,,,13,,,11
+130701,Pacasmayo,San Pedro de Lloc,48,,,"19,2",,,10
+130801,Pataz,Tayabamba,3290,,,"8,3",,,10
+130901,Sánchez Carrión,Huamachuco,3185,,,"11,4",,,12
+131001,Santiago de Chuco,Santiago de Chuco,3127,,,,,,12
+131101,Gran Chimú,Cascas,1279,,,"18,5",,,10
+131201,Virú,Virú,76,,,"18,9",,,10
+140101,Chiclayo ,Chiclayo ,34,,,25,81,6,10
+140201,Ferreñafe ,Ferreñafe ,42,,,,,,10
+140301,Lambayeque ,Lambayeque ,20,,,,,,10
+150101,Lima,Lima,161,2 672.28,8 890 792,20,"84,4",6,9
+150201,Barranca,Barranca,51,1 370.48,146 241,"18,9",,,9
+150301,Cajatambo,Cajatambo,3382,1 515.21,7 828,"2,3",,,11
+150401,Canta,Canta,2833,1 731.16,15 122,"11,3",,,11
+150501,Cañete,Cañete,28,4 577.16,233 151,23,,,8
+150601,Huaral,Huaral,186,3 668.27,190 501,"19,4",78,6,9
+150701,Huarochirí,Matucana,2380,5 657.93,81 696,"13,4",,,10
+150801,Huaura,Huacho,37,4 902.80,219 059,"19,2",81,6,9
+150901,Oyón,Oyón,3619,1 888.87,22 782,"7,9",,,11
+151001,Yauyos,Yauyos,3000,6 899.33,27 459,"11,7",,,10
+160101,Maynas ,Iquitos ,91,,,"26,3","76,8",,11
+160201,Alto Amazonas ,Yurimaguas ,148,,,"26,6",,,10
+160301,Loreto ,Nauta ,98,,,"26,6",,,11
+160401,Mariscal Ramón Castilla ,Caballococha ,74,,,"26,1",,,11
+160501,Requena ,Requena ,95,,,27,,,10
+160601,Ucayali ,Contamana ,134,,,27,,,10
+160701,Datem del Marañón ,San Lorenzo ,133,,,"26,7",,,10
+160801,Putumayo ,San Antonio del Estrecho ,116,,,"26,4",,,10
+170101,Tambopata,Puerto Maldonado,205,,,"25,3","75,7",,8
+170101,Manu,Salvación,527,,,"24,4",,,9
+170101,Tahuamanu,Iñapari,245,,,"24,9","75,7",,9
+180101,Mariscal Nieto,Moquegua,1417,,,"17,1",51,5,8
+180201,General Sánchez Cerro,Omate,2160,,,"14,6",,,8
+180301,Ilo,Ilo,13,,,"18,9",83,6,7
+190101,Pasco,Cerro de Pasco,4342,,,"6,2",,,12
+190201,Daniel A. Carrión,Yanahuanca,3199,,,19,,,11
+190301,Oxapampa,Oxapampa,1806,,,19,,,10
+200101,Piura,San Miguel de Piura,36,,,29,67,7,10
+200201,Ayabaca,Ayabaca,1933,,,"14,6",,,12
+200301,Huancabamba,Huancabamba,1933,,,19,,,11
+200401,Morropón,Chulucanas,92,,,"27,5",,,10
+200501,Paita,Paita,2,,,26,76,6,10
+200601,Sullana,Sullana,64,,,27,,,10
+200701,Talara,Talara,5,,,26,77,7,10
+200801,Sechura,Sechura,15,,,26,,,10
+211101, San Román ,Juliaca,4135,,,11,57,3,9
+210101, Puno ,San Carlos de Puno,3848,,,9,59,3,9
+210201, Azángaro ,Azángaro,3859,,,,,,9
+210401, Chucuito ,Juli,3888,,,,,,10
+210301, Carabaya ,Macusani,4315,,,,,,10
+210801, Melgar,Ayaviri,3907,,,,,,9
+210501, El Collao ,İlave,3862,,,,,,10
+210601, Huancané ,Huancané,3825,,,,,,10
+211201, Sandia,Sandia,2178,,,,,,9
+210701, Lampa ,Lampa,3892,,,,,,10
+211301, Yunguyo , Yunguyo ,3847,,,,,,9
+211001, San Antonio de Putina,Putina,3878,,,,,,10
+210901, Moho,Moho,3902,,,,,,9
+220101,Moyobamba,Moyobamba,878,,,"22,5",,,11
+220201,Bellavista,Bellavista,285,,,"26,5",,,10
+220301,El Dorado,San José de Sisa,346,,,"25,5",,,10
+220401,Huallaga,Saposoa,303,,,"26,5",,,10
+220501,Lamas,Lamas,791,,,24,,,10
+220601,Mariscal Cáceres,Juanjuí,282,,,27,,,10
+220701,Picota,Picota,223,,,"26,5",,,10
+220801,Rioja,Rioja,841,,,23,,,11
+220901,San Martín,Tarapoto,280,,,"25,1",,,10
+221001,Tocache,Tocache,502,,,"21,7",,,10
+230201,Candarave ,Candarave ,3415,,,,,,9
+230301,Jorge Basadre ,Locumba ,559,,,,,,7
+230101,Tacna ,Tacna ,562,,,,,,7
+230401,Tarata ,Tarata ,2766,,,21,68,6,8
+240101,Tumbes ,Tumbes ,23,,,28,80,7,10
+240301,Zarumilla ,Zarumilla ,5,,,"26,5",,,10
+240201,Contralmirante Villar ,Zorritos ,14,,,34,,,10
+250101,Coronel Portillo,Pucallpa,157,,,31,73,7,10
+250201,Atalaya,Atalaya,228,,,26,,,9
+250301,Padre Abad,Aguaytía,300,,,31,,,10
+250401,Purús,Puerto Esperanza,232,,,"30,5",,,10

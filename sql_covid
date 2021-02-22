@@ -1,0 +1,67 @@
+﻿select a.sk_altitude, a.faixa_altitude,  count(1)
+from fato.fato_obito_covid19 c 
+inner join dimensao.dim_altitude a on (a.sk_altitude = c.sk_altitude)
+where sk_pais = 2
+group by a.sk_altitude, a.faixa_altitude
+order by 1 
+
+select a.sk_altitude, a.faixa_altitude,  count(1)
+from fato.fato_contagio_covid19 co 
+inner join dimensao.dim_altitude a on (a.sk_altitude = co.sk_altitude)
+where sk_pais = 2
+group by a.sk_altitude, a.faixa_altitude
+order by 1 
+
+select a.sk_altitude, t.mes, a.faixa_altitude, t.sigla_mes, count(1)
+from fato.fato_obito_covid19 c 
+inner join dimensao.dim_altitude a on (a.sk_altitude = c.sk_altitude)
+inner join dimensao.dim_tempo t on (t.sk_tempo = c.sk_tempo)
+group by a.sk_altitude, a.faixa_altitude, t.sigla_mes, t.mes
+order by 1, 2 
+
+select a.sk_altitude,t.mes, a.faixa_altitude, t.sigla_mes, sum(qtd_contagio)
+from fato.fato_contagio_covid19 co 
+inner join dimensao.dim_altitude a on (a.sk_altitude = co.sk_altitude)
+inner join dimensao.dim_tempo t on (t.sk_tempo = co.sk_tempo)
+group by a.sk_altitude, a.faixa_altitude, t.sigla_mes, t.mes
+order by 1,2
+
+select  faixa_altitude,
+  faixa_temperatura ,
+  faixa_humedade_relativa ,
+  indice_uv 
+from 
+fato.fato_obito_covid19 fo
+inner join dimensao.dim_altitude da on (da.sk_altitude = fo.sk_altitude )
+inner join dimensao.dim_humedade_relativa dh on (dh.sk_humedade_relativa = fo.sk_humedade_relativa )
+inner join dimensao.dim_indice_uv duv on (duv.sk_indice_uv=fo.sk_indice_uv)
+inner join dimensao.dim_temperatura dt on (dt.sk_temperatura=fo.sk_temperatura)
+
+--atualizar indicadores
+-- provincia
+update temporal.ubigeo_peru_provinces
+set altura_provincia = B.altitud,
+  temperatura_provincia = B.temperatura,
+  humedad_relativa_provincia = B.humedad_relativa,
+  indice_uv_provincia = B.indice_uv
+From 
+(
+select *
+from temporal.ubigeo_peru_districts di
+where id like '%____01'
+) B
+where  B.province_id = temporal.ubigeo_peru_provinces.id;
+
+-- departamento
+update temporal.ubigeo_peru_departments
+set altura_departamento = B.altitud,
+temperatura_departamento = B.temperatura,
+  humedad_relativa_departamento = B.humedad_relativa,
+  indice_uv_departamento = B.indice_uv
+From 
+(
+select *
+from temporal.ubigeo_peru_districts di
+where id like '%__0101'
+) B
+where  B.department_id = temporal.ubigeo_peru_departments.id
